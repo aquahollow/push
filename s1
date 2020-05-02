@@ -11,3 +11,13 @@ do so (now or later) by using -b with the checkout command again. Example:
   git checkout -b <new-branch-name>
 
 HEAD is now at 007c0a4 Initial commit
+
+
+
+Trafalgar Square at night is silent and almost empty,
+ the usual crowds of noisy tourists visiting London replaced by clusters of homeless people,
+ who wait on the steps of the National Gallery for food to be distributed.
+ But these are not all long-term rough sleepers: central London is seeing a surge of newly
+ unemployed restaurant and pub workers forced to sleep on the streets because they can no longer afford to pay rent.
+
+
